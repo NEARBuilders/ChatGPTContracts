@@ -1,0 +1,2 @@
+# ChatGPTContracts
+ChatGPT Does NEAR
